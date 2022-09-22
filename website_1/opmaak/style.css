@@ -1,6 +1,7 @@
 body {
-    background-image: url("../plaatjes/achtergrond.jpg");
+    background-image: url("https://sundio-media.azureedge.net/products/Images/Original/43800000/90000/43890608-Original.png?mode=crop&scale=both&width=480&height=360");
     background-size: cover;
+    
 }
 
 article {
@@ -8,11 +9,10 @@ article {
     font-family: Trebuchet, Trebuchet MS, Verdana;
     text-align: center;
     float: right;
-    width: 85%;
-    margin: 10px;
+    width: 86%;
+    margin: 20px;
     padding: 10px;
     background-color: #64F5E6;
-    /* lichtblauw */
 }
 
 footer {
